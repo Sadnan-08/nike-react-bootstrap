@@ -1,0 +1,20 @@
+/* header styles */
+.header-color{
+    background-color: #FFF9F4;
+}
+.half-width{
+    width: 50%;
+}
+h1{
+    font-size: 70px;
+    line-height: 80px;
+}
+.button-padding{
+    padding: 15px 33px;
+    border-radius: 10px;  
+    font-weight:600;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);  
+}
+.section-padding{
+    padding-bottom: 150px;
+}

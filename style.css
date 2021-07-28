@@ -6,8 +6,8 @@
     width: 50%;
 }
 h1{
-    font-size: 70px;
-    line-height: 80px;
+    font-size: 50px;
+    line-height: 70px;
 }
 .button-padding{
     padding: 15px 33px;
@@ -17,6 +17,9 @@ h1{
 }
 .section-padding{
     padding-bottom: 150px;
+}
+.padding-left{
+    padding-left: 80px;
 }
 /* Casual shoes styles */
 h2{
@@ -40,4 +43,7 @@ h4{
 }
 .orange-color{
     color: #FA804C;
+}
+.margin-top{
+    margin-top: 100px;
 }
